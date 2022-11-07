@@ -1,5 +1,6 @@
-# Disco-Snake---Game
-Classic snake game but with a special feature
+# Disco-Snake-Game
+Classic snake game based on python turtle library. This version has several extra features. By downloading the game you can discover them and surprise yourself
+
 
 What does the game look like:
 
